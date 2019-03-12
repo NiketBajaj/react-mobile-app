@@ -1,0 +1,10 @@
+{
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19001,
+  "packagerPid": 8680,
+  "expoServerNgrokUrl": "https://qu-vt4.anonymous.my-city-app.exp.direct",
+  "packagerNgrokUrl": "https://packager.qu-vt4.anonymous.my-city-app.exp.direct",
+  "ngrokPid": 8168,
+  "webpackServerPort": null
+}
